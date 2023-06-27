@@ -1,0 +1,2 @@
+[Db]
+ConnectionString="Host=localhost;Port=5600;Database=test;Username=user;Password=password"
